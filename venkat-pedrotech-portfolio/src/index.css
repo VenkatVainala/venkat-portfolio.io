@@ -1,0 +1,6 @@
+body { font-family: 'Segoe UI', sans-serif; margin: 0; background: #0f172a; color: white; }
+.hero { padding: 5rem 1rem; text-align: center; background: #1e293b; }
+.about, .projects, .contact { padding: 3rem 1rem; max-width: 960px; margin: auto; }
+.btn { background: #2563eb; padding: 0.75rem 1.5rem; border-radius: 5px; color: white; text-decoration: none; }
+.project-card { background: #1e293b; padding: 1rem; margin-bottom: 1rem; border-radius: 8px; }
+a { color: #60a5fa; text-decoration: none; }
